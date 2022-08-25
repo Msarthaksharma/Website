@@ -64,12 +64,12 @@ h3{
 }
 
   hr{
-  border-style:dotted;
-  height:0 px;
+  border-style:dotted none none;
+  height:0px;
   width:5%;
   float: center;
-  border-color:#2C3333;
-  border-width:0 px;
+  border-color:grey;
+  border-width:5px;
   }
 
   .Social{
