@@ -64,7 +64,7 @@ h3{
 }
 
   hr{
-  border-style:dotted none none;
+  border-style:dotted none none none;
   height:0px;
   width:5%;
   float: center;
