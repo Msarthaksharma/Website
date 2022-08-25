@@ -63,8 +63,8 @@ h3{
   width:20%;
 }
 
-hr{
-  border-style:dotted none none;
+  hr{
+  border-style:dotted;
   height:0;
   width:5%;
   float: center;
