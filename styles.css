@@ -43,7 +43,8 @@ h3{
   top: 50px;
 }
 .bottomcloud{
-  position:relative;
+  position:absolute;
+  margin:100px auto 100px auto;
 }
 .Skills{
   display: inline;
